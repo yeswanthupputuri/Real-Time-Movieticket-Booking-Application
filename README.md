@@ -1,6 +1,6 @@
 # Real-Time Movie Ticket Booking System
 
-A full-stack web application for booking movie tickets, built with **Django REST Framework, React TypeScript, and MongoDB**. The application provides movie browsing, interactive seat selection, temporary seat reservations, secure Stripe payment integration, and automatic booking confirmation.
+A web application for booking movie tickets, built with **Django REST Framework, React TypeScript, and MongoDB**. The application provides movie browsing, interactive seat selection, temporary seat reservations, secure Stripe payment integration, and automatic booking confirmation.
 
 ## Features
 
@@ -19,34 +19,19 @@ A full-stack web application for booking movie tickets, built with **Django REST
 ## UI Screenshots
 
 ### Home Page
-
-<!-- Add your Home Page screenshot here -->
 ![Home Page](output/Home.png)
 
 ### Movie Details
-
-<!-- Add your Movie Details screenshot here -->
-![Movie Details](output/Movie Details.png)
+![Movie Details](output/MovieDetails.png)
 
 ### Seat Selection
-
-<!-- Add your Seat Selection screenshot here -->
-![Seat Selection](output/Seat Selection.png)
+![Seat Selection](output/SeatSelection.png)
 
 ### Checkout
-
-<!-- Add your Checkout screenshot here -->
 ![Checkout](output/Checkout.png)
 
-### Payment Result
-
-<!-- Add your Payment Result screenshot here -->
-![Payment Result](output/Payment Result.png)
-
 ### My Bookings
-
-<!-- Add your My Bookings screenshot here -->
-![My Bookings](output/My Bookings.png)
+![My Bookings](output/MyBookings.png)
 
 ## Tech Stack
 
